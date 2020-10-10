@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace Examen
 {
-    class Program
+    class Vendedor
     {
+        private string nombre, apellido;
+        private int codVendedor;
+        private int cotizacion;
+
+        public void Cotizar (int c)
+        {
+
+        }
         static void Main(string[] args)
         {
         }
