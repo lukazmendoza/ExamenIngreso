@@ -24,7 +24,7 @@ Lo implementaría en una clase que realice más de una acción, ya que las inter
 3- La relación de Generalización entre dos clases implica que la clase Padre se considera como Generalización de la clase Hija.
 Se podría también denominar relación de Herencia.
 
-4- 
+4- Una relación de Implementación entre una clase y una interfaz implica que implementa todos sus métodos
 
 5- La Agregación es un tipo de asociación que indica que una clase es parte de otra clase. Los componentes pueden ser compartidos por varios compuestos. La destrucción del compuesto no conlleva la destrucción de los componentes.
 En la Composición, la vida de la clase contenida debe coincidir con la vida de la clase contenedor. Los componentes no pueden ser compartidos por varios objetos compuestos. La destrucción del objeto conlleva a la destrucción de los componentes.
